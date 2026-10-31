@@ -21,8 +21,8 @@
 ## Run locally
 
 ```bash
-git clone https://github.com/vasvadim/ysda_article_classifier.git
-cd ysda_article_classifier
+git clone https://github.com/vasvadim/arxiv-article-classifier.git
+cd arxiv-article-classifier
 pip install -r requirements.txt
 streamlit run app.py
 ```
